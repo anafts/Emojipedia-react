@@ -43,6 +43,31 @@ const emojipedia = [
     name: " Face With Monocle" ,
     meaning: 
     "A monocle is a visual aid with only one glass. At the end of the 19th century it was a status symbol. Something seems suspicious! The smiley makes a warning look around. The “upper-class“ version of the pondering smiley."
+  } ,
+
+  {
+    id:7 ,
+    emoji: "🥺" ,
+    name: "Face with begging eyes",
+    meaning:
+    "The big eyes are shining, devoted facial expression. The emoji is entreatingly begging for something: wants to borrow some money or the car. If you cannot get ahead by asking for something, puppy dog eyes are the last resort to get what you want."
+  } ,
+
+  {
+    id:8 ,
+    emoji: "😭" ,
+    name: "Loudly Crying Face" ,
+    meaning:
+    "Emoji is both very sad and distraught, or is dying of laughter. Tears are pouring out of the eyes like a waterfall. Represents injury, pain or defeat. Is also used ironically or something is so funny that you die of laughter."
+  }, 
+
+  {
+    id:9 ,
+    emoji: "😱",
+    name: "Face Screaming in Fear" ,
+    meaning: 
+    "Horror-stricken face with two hands, screaming. Is scared stiff, feeling nothing but fear and panic. The creepy emoji can also be used ironically or as a symbol for Halloween."
+
   }
 ];
 
