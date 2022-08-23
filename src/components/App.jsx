@@ -24,9 +24,14 @@ function App() {
         <span>emojipedia</span>
       </h1>
 
-      {emojipedia.map(Card)}
+      <dl className="dictionary"> {emojipedia.map(Card)} </dl>
+
+
+      <footer> </footer>
       
     </div>
+
+    
   );
 }
 
