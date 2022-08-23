@@ -1,6 +1,7 @@
 import React from "react";
 import Entry from "./Entry";
 import emojipedia from "../emojipedia";
+import Footer from "./Footer";
 
 function Card(info) {
 
@@ -26,8 +27,7 @@ function App() {
 
       <dl className="dictionary"> {emojipedia.map(Card)} </dl>
 
-
-      <footer> </footer>
+      <Footer />
       
     </div>
 
