@@ -1,17 +1,17 @@
 const emojipedia = [
   {
     id: 1,
-    emoji: "💪",
-    name: "Tense Biceps",
+    emoji: "😜",
+    name: "Face With Stuck-Out Tongue & Winking Eye",
     meaning:
-      "“You can do that!” or “I feel strong!” Arm with tense biceps. Also used in connection with doing sports, e.g. at the gym."
+      "Smiley boldly sticks out the tongue, winking with one eye. Has made a joke or wants to flirt with the chat partner. Is carefree and does not mean it seriously."
   },
   {
     id: 2,
-    emoji: "🙏",
-    name: "Person With Folded Hands",
+    emoji: "😎",
+    name: "Face With Sunglasses",
     meaning:
-      "Two hands pressed together. Is currently very introverted, saying a prayer, or hoping for enlightenment. Is also used as a “high five” or to say thank you."
+      "I'm the king of the world! Mr. Cool Smiley with sunglasses. Is totally self-assured and relaxed. Everything is absolutely easy and cool. Also a symbol for sun, summer holidays, and holidays on the beach."
   },
   {
     id: 3,
@@ -67,8 +67,55 @@ const emojipedia = [
     name: "Face Screaming in Fear" ,
     meaning: 
     "Horror-stricken face with two hands, screaming. Is scared stiff, feeling nothing but fear and panic. The creepy emoji can also be used ironically or as a symbol for Halloween."
+  },
 
-  }
+  {
+    id:10 ,
+    emoji: "🥳",
+    name: "Face with party blower and party hat" ,
+    meaning: 
+    "That was a wild party or “Let's celebrate“. No matter what joyful event is in view, it will be celebrated appropriately. May also stand for the carnival season."
+  },
+
+  {
+    id:11 ,
+    emoji: "🤬",
+    name: "Face With Symbols Over The Mouth" ,
+    meaning: 
+    "The symbols over the mouth represent cursing. The serious-looking smiley is really upset and keeps using four-letter words. Represents a sudden outburst of fury or frustration."
+  },
+
+  {
+    id:12 ,
+    emoji: "😒",
+    name: "Unamused Face" ,
+    meaning: 
+    "The grumpy, sullen gaze expresses dissatisfaction. Is not enthusiastic about a thing and shows that. Expression of disinterest and disapproval."
+  },
+
+  {
+    id:13 ,
+    emoji: "🤭",
+    name: "Face With Hand Over The Mouth" ,
+    meaning: 
+    "Expresses shock, surprise, or a sudden perception. Typical gesture, which shows that the other person is not telling the truth. Thinks he's being lied to."
+  },
+
+  {
+    id:14 ,
+    emoji: "🙄",
+    name: "Face With Rolling Eyes" ,
+    meaning: 
+    "Smiley is rolling its eyes. Finds the current situation or a person boring or annoying. Will disregard the message."
+  },
+
+  {
+    id:15 ,
+    emoji: "🤧",
+    name: "Sneezing Face" ,
+    meaning: 
+    "A sneezing face with eyes closed, blowing its nose into a handkerchief. I caught a cold! Shows that someone is ill or feels uncomfortable."
+  },
 ];
 
 export default emojipedia;
