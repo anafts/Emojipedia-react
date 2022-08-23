@@ -6,8 +6,6 @@ function Entry(props) {
 
     return (
 
-        <dl className="dictionary">
-
         <div className="term">
 
             <dt>
@@ -20,8 +18,7 @@ function Entry(props) {
             <dd> {props.meaning} </dd>
         </div>
 
-    </dl>
-
+  
     );
     
 };
