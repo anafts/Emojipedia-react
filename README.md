@@ -11,7 +11,7 @@
 
 ## 💻 Descrição do projeto 
 
- O Emojipedia é um projeto usando o React. Acessando o site você consegue descobrir os significados de alguns emojis mais populares. 
+ O Emojipedia é um projeto usando o React. Acessando o site você consegue descobrir os significados de alguns emojis mais populares da internet
  
  <br>
 
